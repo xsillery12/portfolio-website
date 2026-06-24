@@ -24,7 +24,7 @@ import { profile, metrics } from "../data/content.js";
 
         <p
           v-reveal
-          class="mb-7.5 max-w-[54ch] text-lg leading-[1.55] text-ondark-mut md:text-xl"
+          class="mb-7.5 max-w-[54ch] text-lg leading-[1.55] text-ondark-mut text-justify md:text-xl"
         >
           Junior developer with 1+ year shipping production tools. Most recently
           a monitoring dashboard for
@@ -45,7 +45,7 @@ import { profile, metrics } from "../data/content.js";
       </div>
 
       <!-- KANAN: foto -->
-      <div v-reveal class="flex justify-center md:justify-end">
+      <div v-reveal class="order-first flex justify-center md:order-0 md:justify-end">
         <div class="relative grid place-items-center">
           <!-- glow brand di belakang -->
           <div
