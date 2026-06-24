@@ -84,13 +84,13 @@ export const experience = [
     desc: "Built the BSI Agen monitoring dashboard, supported core-banking migration QA, and ran competitive benchmarking against other banks and fintechs.",
   },
   {
-    date: "Oct — Nov 2025",
+    date: "Oct — Dec 2025",
     role: "Programmer & Software Tester",
     org: "PT. Lestari Jaya Raya",
     desc: "Functional, UI/UX, and regression testing on internal apps; wrote test cases and reported bugs alongside the developer team.",
   },
   {
-    date: "Mar — Oct 2025",
+    date: "Mar — Sept 2025",
     role: "Front-End Web Developer",
     org: "Chayon Online Course",
     desc: "Built responsive interfaces from UI/UX designs and kept the live site healthy through regular maintenance.",
