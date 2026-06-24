@@ -10,15 +10,17 @@
 
       <div v-reveal>
         <p class="mb-4.5 text-[1.08rem] leading-[1.7] text-ink-soft text-justify">
-          I'm a full-stack developer based in Jakarta. I graduated in Information Systems from
-          Gunadarma University (GPA 3.93) and spent the last year shipping real tools — internal
-          dashboards, test suites, and front-end builds — across an online course platform, a
-          software house, and a national bank.
+          I'm a Junior Front-End Web Developer based in Jakarta. I graduated in Information Systems
+          from Gunadarma University (GPA 3.93) and spent the last year building real, user-facing
+          interfaces dashboards, internal tools, and responsive front-ends across an online
+          course platform, a software house, and a national bank.
         </p>
         <p class="text-[1.08rem] leading-[1.7] text-ink-soft text-justify">
-          I like the whole stack: designing an interface in Figma, wiring up a FastAPI backend, and
-          getting it deployed and running on a real server. Right now I'm looking for remote or
-          junior web developer roles where I can keep building things people actually use.
+          My focus is the front-end: turning UI/UX designs into clean, responsive interfaces with
+          Vue. I'm also comfortable reaching into the backend when a feature needs it,
+          wiring up a FastAPI endpoint or a database query, and getting the result deployed on a
+          real server. Right now I'm looking for remote or junior front-end developer roles where I
+          can keep building things people actually use.
         </p>
       </div>
     </div>
