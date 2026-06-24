@@ -13,7 +13,11 @@ import { profile } from "../data/content.js";
         The fastest way to reach me is email — I usually reply within a day.
       </p>
 
-      <a class="btn btn--solid btn--big" :href="`mailto:${profile.email}`">{{ profile.email }}</a>
+      <a class="btn btn--solid btn--big"
+        :href="`https://mail.google.com/mail/?view=cm&fs=1&to=${profile.email}`"
+        target="_blank"
+        rel="noopener"
+      >{{ profile.email }}</a>
 
       <ul class="mt-8.5 flex list-none flex-wrap justify-center gap-7 p-0">
         <li>

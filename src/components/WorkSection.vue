@@ -43,7 +43,7 @@ import { projects } from "../data/content.js";
           </ul>
 
           <p v-if="p.note" class="mt-auto pt-1 font-mono text-[12.5px] text-muted">{{ p.note }}</p>
-          <div v-else-if="p.link || p.link1 || p.link2" class="mt-auto flex flex-wrap items-center gap-x-5 gap-y-2">
+          <div v-else-if="p.link || p.link1 || p.link2 || p.weblink" class="mt-auto flex flex-wrap items-center gap-x-5 gap-y-2">
             <a
               v-if="p.link"
               :href="p.link"
@@ -67,6 +67,14 @@ import { projects } from "../data/content.js";
               rel="noopener"
               class="mono-link"
               >Code 2 <span aria-hidden="true">↗</span></a
+            >
+            <a
+              v-if="p.weblink"
+              :href="p.weblink"
+              target="_blank"
+              rel="noopener"
+              class="mono-link"
+              >Website <span aria-hidden="true">↗</span></a
             >
           </div>
           

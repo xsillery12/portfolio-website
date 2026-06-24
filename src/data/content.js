@@ -37,7 +37,8 @@ export const projects = [
     desc: "Medan24 Pizza Sales Dashboard is an interactive data visualization web application built to analyze pizza sales performance throughout 2015.",
     chips: ["HTML", "CSS", "Javascript", "Google Looker Studio", "BigQuery", "SQL", "GIT", "Chart.js"],
     // Swap for the exact repo URL when ready
-    link: "https://github.com/xsillery12",
+    link: "https://github.com/Kampus-Merdeka-Software-Engineering/km-feb24-medan-24",
+    weblink: "https://kampus-merdeka-software-engineering.github.io/km-feb24-medan-24/",
   },
   {
     tag: "Team project",
@@ -47,7 +48,7 @@ export const projects = [
     desc: "Chayon Online Course is a responsive online learning platform designed to help users upgrade their skills and advance their careers.",
     chips: ["Laravel", "Tailwind CSS", "Javascript"],
     // Swap for the exact repo URL when ready
-    link: "https://github.com/xsillery12",
+    link: "https://github.com/chayononlinecourse/chayon-online-course",
   },
   {
     tag: "Thesis",
@@ -56,7 +57,7 @@ export const projects = [
     image: "/apotek_huda.webp",
     desc: "A responsive pharmacy storefront with 10+ product categories and a streamlined checkout, built as my undergraduate thesis.",
     chips: ["Laravel", "PHP", "MySQL"],
-    link: "https://github.com/xsillery12",
+    link: "https://github.com/xsillery12/website_apotek_huda",
   },
   {
     tag: "Team project",
@@ -65,7 +66,7 @@ export const projects = [
     image: "/raakdatri.webp",
     desc: "An e-commerce clothing site where I worked across UI/UX in Figma and full-stack development — a modern, responsive storefront.",
     chips: ["Figma", "JavaScript", "Full-stack"],
-    link: "https://github.com/xsillery12",
+    link: "https://github.com/xsillery12/raakdatri-web",
   },
 ];
 
